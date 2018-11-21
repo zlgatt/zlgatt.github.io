@@ -1,0 +1,17 @@
+body{
+font-family: 'Source Sans Pro', sans-serif;
+color: #354b63 
+}
+
+.date{
+font-family: 'Source Sans Pro', sans-serif;
+text-transform: uppercase;
+color: #3098dd
+}
+
+div{
+    width: 80%;
+    border: 20px solid #bdc7cf;
+    padding: 20px;
+    margin: 20px auto;
+}
